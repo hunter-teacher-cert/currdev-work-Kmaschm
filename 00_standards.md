@@ -54,7 +54,6 @@ Students learn about p5.js functions and parameters and how to use the p5.js ref
 * **Discussion: Functions and Parameters:**  Students are introduced to the ideas of functions, parameters, and arguments.
 * **Teacher Demo: Layering shapes:** Students review how to draw squares and circles using their appropriate functions, then explore how changing the order of functions changes the order in which shapes are drawn (last shape is on top).
 * **Student Activity: Recreate p5 sketches:** Students are introduced to comments, then recreate a given sketch with comments to indicate which lines of code are for face, left eye, right eye and nose.
-
 * **Wrap Up:**  Students submit code as exit ticket.
 
 ### Explanation: 
