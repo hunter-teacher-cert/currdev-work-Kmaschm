@@ -1,5 +1,5 @@
 #### Last name: Maschmeyer
-#### First name: Katherine
+#### First name: Katherine (Kate)
 #### Github username: kmaschm
 
 #### Instructions:
